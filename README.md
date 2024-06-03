@@ -1,7 +1,7 @@
 
 # Dockerization
 1. Clone the repository
- git clone https://github.com/nyrahul/wisecow
+ git clone https://github.com/nyrahul/wisecow  
 
 ## Kubernetes Deployment
 
