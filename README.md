@@ -94,7 +94,7 @@ Use tools like Let's Encrypt to generate certificates.
 
 Create an Ingress resource for TLS termination.
 
-Update  wisecow-service.yaml  to use NodePort or ClusterIP type.
+Update  `wisecow-service.yaml`  to use NodePort or ClusterIP type.
 
 Configure Ingress rules for secure communication.
 
